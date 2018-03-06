@@ -35,3 +35,5 @@ Progress Milestones
 
 Below is a goofy page:
 ![My helpful screenshot]({{ "/assets/u=1659331746,2979952409&fm=21&gp=0.jpg" | absolute_url }})
+
+Wanna [get some pdf?]({{ "/assets/01Intro.pdf" | absolute_url }}) 
