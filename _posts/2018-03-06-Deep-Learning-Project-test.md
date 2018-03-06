@@ -34,6 +34,7 @@ Progress Milestones
 2. Before May 1st, get experimental results by using different optimization algorithms, including ADAM, SGD, etc. In addition, we try to get some theoretical understanding of different algorithms.
 
 Below is a goofy page:
+
 ![My helpful screenshot]({{ "/assets/u=1659331746,2979952409&fm=21&gp=0.jpg" | absolute_url }})
 
 Wanna [get some pdf?]({{ "/assets/01Intro.pdf" | absolute_url }}) 
