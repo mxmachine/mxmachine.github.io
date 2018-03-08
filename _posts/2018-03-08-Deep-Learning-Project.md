@@ -1,8 +1,4 @@
----
-layout: post
-title: "Deep Learning Project"
 
----
 
 Project Title: On the Training of Generative Adversarial Nets
 
