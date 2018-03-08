@@ -33,8 +33,9 @@ E. Progress Milestones
 1. Before April 1st, get experimental results for GAN and WGAN, and (probably) another variant of GAN by using standard primal-dual mini-batch SGD update.
 2. Before May 1st, get experimental results by using different optimization algorithms, including ADAM, SGD, etc, and compare them with the results using objective function we specified. In addition, we try to get some theoretical understanding of different algorithms.
 
-Below is a goofy page:
+F. Illustration of GAN and an Example:
 
-![My helpful screenshot]({{ "/assets/u=1659331746,2979952409&fm=21&gp=0.jpg" | absolute_url }})
+![GAN Framework]({{ "/assets/picture1.png" | absolute_url }})
+![Example]({{ "/assets/picture2.png" | absolute_url }})
 
 Wanna [get some pdf?]({{ "/assets/01Intro.pdf" | absolute_url }}) 
