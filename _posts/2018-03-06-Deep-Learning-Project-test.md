@@ -10,7 +10,7 @@ Team Members: Mingrui Liu, Xin Man, Shuyang Fu
 
 Project Idea
 
-Standard Generative Adversarial Net (GAN) suffers from the instablity and failure to achieve convergence during the training phase. To address this issue, there are two common strategies. The first is to change the objective function in a smart way to make it easier to train while maintaining its the effectiveness, and another way is to utilize different optimization algorithms to accelerate the training procedure. In this project, we aim to investigate and design different approaches for training GANs based on the both strategies. Concretely, we target on following recent developments of different GANs, and investigate a variety of optimization algorithms to facilitate efficient training. 
+Standard Generative Adversarial Net (GAN) suffers from the instablity and failure to achieve convergence during the training phase. To address this issue, there are two common strategies. The first is to change the objective function in a smart way to make it easier to train while maintaining its the effectiveness, and another way is to utilize different optimization algorithms to accelerate the training procedure. In this project, we aim to investigate and design different approaches for training GANs based on the both strategies. Concretely, we target on following recent developments of different GANs, specifying different objective functions, proving the effectiveness on mathematics, and investigating a variety of optimization algorithms to facilitate efficient training. 
 
 Dataset Details
 
@@ -31,7 +31,7 @@ Relevant Papers
 Progress Milestones
 
 1. Before April 1st, get experimental results for GAN and WGAN, and (probably) another variant of GAN by using standard primal-dual mini-batch SGD update.
-2. Before May 1st, get experimental results by using different optimization algorithms, including ADAM, SGD, etc. In addition, we try to get some theoretical understanding of different algorithms.
+2. Before May 1st, get experimental results by using different optimization algorithms, including ADAM, SGD, etc, and compare them with the results using objective function we specified. In addition, we try to get some theoretical understanding of different algorithms.
 
 Below is a goofy page:
 
