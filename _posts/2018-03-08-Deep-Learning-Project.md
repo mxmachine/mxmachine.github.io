@@ -1,5 +1,5 @@
 ---
-layerout: post
+layout: post
 title: "Deep Learning Project"
 
 ---
