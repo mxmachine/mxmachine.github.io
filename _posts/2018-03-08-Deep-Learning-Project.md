@@ -38,4 +38,3 @@ F. Illustration of GAN and an Example (source: http://www.iangoodfellow.com/slid
 ![GAN Framework]({{ "/assets/picture1.png" | absolute_url }})
 ![Example]({{ "/assets/picture2.png" | absolute_url }})
 
-Wanna [get some pdf?]({{ "/assets/01Intro.pdf" | absolute_url }}) 
