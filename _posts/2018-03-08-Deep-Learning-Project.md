@@ -38,3 +38,6 @@ F. Illustration of GAN and an Example (source: http://www.iangoodfellow.com/slid
 ![GAN Framework]({{ "/assets/picture1.png" | absolute_url }})
 ![Example]({{ "/assets/picture2.png" | absolute_url }})
 
+
+G. The results of the Project
+![Mingrui Liu's Work on different optimization methods on training GANs]({{ "/assets/report.pdf" | absolute_url }})
