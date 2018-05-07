@@ -40,4 +40,4 @@ F. Illustration of GAN and an Example (source: http://www.iangoodfellow.com/slid
 
 
 G. The results of the Project
-![Mingrui Liu's Work on different optimization methods on training GANs]({{ "/assets/report.pdf" | absolute_url }})
+![Mingrui Liu's Work on different optimization methods on training GANs]({{ "/assets/report_MingruiLiu.pdf" | absolute_url }})
