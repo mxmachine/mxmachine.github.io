@@ -43,3 +43,4 @@ G. The results of the Project
 
 
 1. [Mingrui Liu's Work on different optimization methods on training GANs](https://mxmachine.github.io/assets/report_MingruiLiu.pdf)
+1. [Xin Man's work on training W-GANs](https://mxmachine.github.io/assets/Report_XinMan.pdf)
